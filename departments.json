@@ -1,0 +1,138 @@
+{
+    "employees": [
+      {
+        "employee_id": "E001",
+        "name": "Alice Johnson",
+        "age": 45,
+        "department": "Finance",
+        "in_charge_of": ["E003", "E004"]
+      },
+      {
+        "employee_id": "E002",
+        "name": "Bob Smith",
+        "age": 38,
+        "department": "Marketing",
+        "in_charge_of": []
+      },
+      {
+        "employee_id": "E003",
+        "name": "Charlie Davis",
+        "age": 30,
+        "department": "Finance",
+        "in_charge_of": []
+      },
+      {
+        "employee_id": "E004",
+        "name": "Dana Lee",
+        "age": 27,
+        "department": "Finance",
+        "in_charge_of": []
+      },
+      {
+        "employee_id": "E005",
+        "name": "Eve Martin",
+        "age": 50,
+        "department": "Human Resources",
+        "in_charge_of": ["E001", "E002"]
+      },
+      {
+        "employee_id": "E006",
+        "name": "Franklin Green",
+        "age": 60,
+        "department": "IT",
+        "in_charge_of": ["E007", "E008", "E009"]
+      },
+      {
+        "employee_id": "E007",
+        "name": "Grace Miller",
+        "age": 34,
+        "department": "IT",
+        "in_charge_of": []
+      },
+      {
+        "employee_id": "E008",
+        "name": "Hank Cooper",
+        "age": 29,
+        "department": "IT",
+        "in_charge_of": []
+      },
+      {
+        "employee_id": "E009",
+        "name": "Ivy Anderson",
+        "age": 26,
+        "department": "IT",
+        "in_charge_of": []
+      },
+      {
+        "employee_id": "E010",
+        "name": "Jack Wilson",
+        "age": 40,
+        "department": "Sales",
+        "in_charge_of": ["E011", "E012"]
+      },
+      {
+        "employee_id": "E011",
+        "name": "Kara Foster",
+        "age": 32,
+        "department": "Sales",
+        "in_charge_of": []
+      },
+      {
+        "employee_id": "E012",
+        "name": "Liam Peterson",
+        "age": 28,
+        "department": "Sales",
+        "in_charge_of": []
+      },
+      {
+        "employee_id": "E013",
+        "name": "Mia Roberts",
+        "age": 44,
+        "department": "Operations",
+        "in_charge_of": ["E014", "E015", "E016"]
+      },
+      {
+        "employee_id": "E014",
+        "name": "Nathan Brooks",
+        "age": 35,
+        "department": "Operations",
+        "in_charge_of": []
+      },
+      {
+        "employee_id": "E015",
+        "name": "Olivia Scott",
+        "age": 31,
+        "department": "Operations",
+        "in_charge_of": []
+      },
+      {
+        "employee_id": "E016",
+        "name": "Paul Taylor",
+        "age": 29,
+        "department": "Operations",
+        "in_charge_of": []
+      },
+      {
+        "employee_id": "E017",
+        "name": "Quinn Murphy",
+        "age": 52,
+        "department": "Legal",
+        "in_charge_of": ["E018", "E019"]
+      },
+      {
+        "employee_id": "E018",
+        "name": "Rachel Hughes",
+        "age": 37,
+        "department": "Legal",
+        "in_charge_of": []
+      },
+      {
+        "employee_id": "E019",
+        "name": "Samuel James",
+        "age": 33,
+        "department": "Legal",
+        "in_charge_of": []
+      }
+    ]
+  }
+  
